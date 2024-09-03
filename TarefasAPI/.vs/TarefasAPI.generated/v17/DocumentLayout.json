@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|c:\\proj\\crud-tarefas\\tarefaapp\\tarefasapi\\controller\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|solutionrelative:controller\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|c:\\proj\\crud-tarefas\\tarefaapp\\tarefasapi\\data\\entities\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|solutionrelative:data\\entities\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|c:\\proj\\crud-tarefas\\tarefaapp\\tarefasapi\\data\\entities\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|solutionrelative:data\\entities\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|c:\\proj\\crud-tarefas\\tarefaapp\\tarefasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|c:\\proj\\crud-tarefas\\tarefaapp\\tarefasapi\\tarefasapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|solutionrelative:tarefasapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|c:\\proj\\crud-tarefas\\tarefaapp\\tarefasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87A8DAF8-B658-456B-8E81-5C8C4526AABE}|TarefasAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T23:38:21.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarefasAPI.http",
+              "DocumentMoniker": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\TarefasAPI.http",
+              "RelativeDocumentMoniker": "TarefasAPI.http",
+              "ToolTip": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\TarefasAPI.http",
+              "RelativeToolTip": "TarefasAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-02T23:38:08.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:37:56.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\Data\\Entities\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\DbContext.cs",
+              "ToolTip": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\Data\\Entities\\DbContext.cs",
+              "RelativeToolTip": "Data\\Entities\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:37:40.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarefas.cs",
+              "DocumentMoniker": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\Data\\Entities\\Tarefas.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Tarefas.cs",
+              "ToolTip": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\Data\\Entities\\Tarefas.cs",
+              "RelativeToolTip": "Data\\Entities\\Tarefas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:37:49.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\Controller\\TarefasController.cs",
+              "RelativeDocumentMoniker": "Controller\\TarefasController.cs",
+              "ToolTip": "C:\\proj\\CRUD-Tarefas\\tarefaApp\\TarefasAPI\\Controller\\TarefasController.cs",
+              "RelativeToolTip": "Controller\\TarefasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:36:37.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
